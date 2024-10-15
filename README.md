@@ -43,4 +43,4 @@ Enter the shift value: 3
 Your Encrypted message: Khoor Zruog!
 ```
 ## Author
-Linkdin : [Sovan Das](https://www.linkedin.com/in/sovanking)
+Linkdin : [Sovan Das](https://www.linkedin.com/in/imsovandas)
