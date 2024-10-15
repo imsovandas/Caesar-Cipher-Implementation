@@ -16,13 +16,13 @@ git clone https://github.com/imsovandas/Caesar-Cipher-Implementation.git
 2. Navigate to the directory containing the script:
    
 ```
-cd PRODIGY_CS_01
+cd Caesar-Cipher-Implementation
 ```
 
 3. Run the script:
    
 ```
-python Implement-Caesar-Cipher.py
+python Caesar-Cipher-Implementation.py
 ```
 
 4. Follow the on-screen instructions to encrypt or decrypt messages.
@@ -30,7 +30,7 @@ python Implement-Caesar-Cipher.py
 ## Example
 ```
 -------------------------
-Implement Caesar Cipher By Sovan Das
+Caesar Cipher Implementation By Sovan Das
 -------------------------
 Choose Your Options 
 1. Encrypt 
