@@ -23,7 +23,7 @@ def decrypt(text, shift):
 
 def main():
     print("\n------------------------- ")
-    print("Implement Caesar Cipher By Sovan Das")
+    print("Caesar Cipher Implementation By Sovan Das")
     print("------------------------- ")
     print("Choose Your Options \n1. Encrypt \n2. Decrypt \n")
     choice = int(input("Enter your choice (1 or 2): "))
